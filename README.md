@@ -21,7 +21,7 @@ which at this point contains 50M hand-drawn images. To check the data and catego
 
 some examples from the 101Food datasets:
 
-![alt text](https://github.com/ozzmanmuhammad/FoodVision/blob/main/Images/Food101_examples.png "Train data examples")
+![alt text](https://github.com/ozzmanmuhammad/Hand-Drawn-Sketches-Prediction/blob/main/images/doodles_examples.jpg "Train data examples")
 
 ## Model Building and Performance
 
@@ -31,4 +31,6 @@ the models that are hosted by ml5. Build mostly using p5-1.4.1 library.
 
 ## Predictions on Custom Images
 The model predicts all the 10 images correct with high probability score. These images were collected from different sources.
-<img src="https://github.com/ozzmanmuhammad/FoodVision/blob/main/Images/predictions_custom_images.png" alt="Custom Predictions" width="700"/>
+<img src="https://github.com/ozzmanmuhammad/Hand-Drawn-Sketches-Prediction/blob/main/images/doodles_prediction.jpg" alt="Predictions" width="700"/>
+
+### Try it Yourself on my <a href="https://ozzmanmuhammad.github.io/project-DoodleNet.html" target="_blank">"Portfolio."</a>
